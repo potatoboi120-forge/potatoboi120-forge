@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @potatoboi120-forge
-- 👀 I’m interested in : linux ,microControlers
+- 👀 I’m interested in : linux ,microControlers,apps
 - 🌱 I’m currently learning:esp32 godot flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: straight man 💪
+- ⚡ Fun fact: ididnt finesh a project in my life 
 
 <!---
 potatoboi120-forge/potatoboi120-forge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
