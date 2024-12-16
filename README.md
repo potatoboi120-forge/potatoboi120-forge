@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @potatoboi120-forge
 - 👀 I’m interested in : linux ,microControlers,apps
-- 🌱 I’m currently learning:esp32 godot flutter
+- 🌱 I’m currently learning:esp32 frontend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... idk 
 - 😄 Pronouns: straight man 💪
 - ⚡ Fun fact: ididnt finesh a project in my life 
 
